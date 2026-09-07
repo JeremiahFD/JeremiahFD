@@ -25,7 +25,9 @@ promises.
 
 A lightweight, privacy-first Windows tray monitor for Codex usage and reset
 times, with experimental Claude Code support. It is read-only, free,
-MIT-licensed beta software and clearly labels unavailable or stale data.
+MIT-licensed beta software. The current native build is a work in progress and
+may be wrong or stale, so usage and reset times should always be confirmed
+through official provider sources.
 
 ## Follow along
 

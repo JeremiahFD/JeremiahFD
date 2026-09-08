@@ -29,6 +29,21 @@ MIT-licensed beta software. The current native build is a work in progress and
 may be wrong or stale, so usage and reset times should always be confirmed
 through official provider sources.
 
+### [Kodi Stream Catalog](https://github.com/JeremiahFD/kodi-stream-catalog)
+
+A Windows app for finding streams and building organized Kodi playlists. Import
+sources, search a local database, edit channel names and groups, and combine
+playlists into one file with categories. The standalone installer includes
+everything needed to run the catalog—no separate Python setup.
+
+Created with AI assistance, with practical handoffs for using the catalog and
+building custom website-stream adapters. Free, MIT-licensed **beta**: the channel
+guide/XMLTV needs more work, and convenient device syncing is a possible future
+addition, not a current feature.
+
+[Download](https://github.com/JeremiahFD/kodi-stream-catalog/releases/tag/v0.1.0-beta.1)
+ · [Feedback and questions](https://github.com/JeremiahFD/kodi-stream-catalog/discussions)
+
 ## Follow along
 
 You can watch the repositories for releases and development updates. Winamp

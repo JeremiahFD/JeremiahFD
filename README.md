@@ -10,14 +10,25 @@ and plenty of iteration.
 
 ### [Winamp Tools](https://github.com/JeremiahFD/winamp-tools)
 
-A free, MIT-licensed home for plug-ins and utilities that help classic Winamp
-workflows function on modern Windows. The first released tool lets AVS and
-MilkDrop react to audio playing anywhere on the Windows output device without
-a software mixer.
+A free, open-source home for classic Winamp on modern Windows, with MIT-licensed
+original code. **Live Stations now has a radio UI beta:** browse and filter
+stations, open Favorites, and resize the station/details panes inside the Media
+Library. WASAPI Loopback Input also lets AVS and MilkDrop react to Windows audio
+without a software mixer.
+
+[Try Live Stations](https://github.com/JeremiahFD/winamp-tools/releases/tag/live-stations-v0.1.0-beta.1)
+ · [Screenshot and project details](https://github.com/JeremiahFD/winamp-tools#live-stations--radio-ui-beta)
+
+Live Stations is beta software and may be incomplete or incorrect; stream
+availability and playback vary. Video, the resolver companion and chat are not
+part of this release.
+
+Possible next steps include a saved-link companion, video support and separate
+optional station chat; these are not promised release features.
 
 The [Winamp Tools project map](https://github.com/JeremiahFD/winamp-tools#project-map)
 also shows current development and possible future ideas, including
-AudioBridge, Live Stations, AVS compatibility work, a plug-in manager, and an
+AudioBridge, AVS compatibility work, a plug-in manager, and an
 optional community chat experiment. Those ideas may change and are not release
 promises.
 
